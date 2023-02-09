@@ -19,4 +19,4 @@ o	Handle both proper and failed logon attempts
 o	The application must provide the ability to select from all the classes, students, or teachers and when selected, show all the related information in appropriate controls (e.g., labels or text boxes).  For instance, when selecting a student, controls should update with the student id, name, major, grade level and age.
 o	There must be the ability to show all related information for a particular entity when selected.  For instance, if a class is chosen, then the instructor and all the students should be displayed.  (HINT: A data grid might be a helpful control to use in this case).
 o	Be able to search for a student’s classes; for a teacher’s students; and for a class roster.  Usually, this is accomplished by entering letters/numbers into a textbox that looks for their last name one letter at a time. The members that have those letters in their name (or course number) should dynamically appear in a grid.
-![image](https://user-images.githubusercontent.com/104747065/217694968-744b4820-73e5-41db-9248-10de9a2d23db.png)
+
