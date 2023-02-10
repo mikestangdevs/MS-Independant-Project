@@ -1,6 +1,6 @@
 # Student Database School Project :)
 
-## Objective
+## Objective (Another boring C# Project)
 To allow you to review and brush up on concepts from your C# and database classes, you need to develop a program that accesses and manipulates a Microsoft SQL Server database using SQL.
 
 ## Details of Assignment
